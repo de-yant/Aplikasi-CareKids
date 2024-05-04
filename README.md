@@ -47,6 +47,8 @@ ng serve -o
 ## Screenshots
 
 ![Pist](https://github.com/de-yant/Aplikasi-CareKids/blob/main/src/assets/images/preview/beranda.png?raw=true)
+![Pist](https://github.com/de-yant/Aplikasi-CareKids/blob/main/src/assets/images/preview/article.png?raw=true)
+![Pist](https://github.com/de-yant/Aplikasi-CareKids/blob/main/src/assets/images/preview/hub.png?raw=true)
 
 ## Further help
 
