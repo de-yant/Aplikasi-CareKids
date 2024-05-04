@@ -2,25 +2,51 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.0.
 
-## Development server
+## Table of Contents
+- [How to Install](#how-to-install)
+- [Screenshots](#screenshots)
+- [Further help](#further-help)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## How to Install
 
-## Code scaffolding
+### Clone Repository
+open your terminal, go to the directory that you will install this project, then run the following command:
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+```bash
+git clone https://github.com/de-yant/Aplikasi-CareKids.git
+cd Aplikasi-CareKids
+```
 
-## Build
+### Install Packages
+Install vendor using composer
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+```bash
+composer update
+```
 
-## Running unit tests
+Install node module using npm
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+```bash
+npm install
+```
 
-## Running end-to-end tests
+If you encounter any vulnerability reports, fix them with:
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+```bash
+npm audit fix
+```
+
+### Running Application
+Now you have all requirements to run the project, you can run it and open it in a browser. Start by building and serving the project:
+- **Note: You need run the following command into new terminal tab**
+
+```bash
+ng serve -o
+```
+
+## Screenshots
+
+![Pist](https://github.com/de-yant/Aplikasi-CareKids/blob/main/src/assets/images/preview/beranda.png?raw=true)
 
 ## Further help
 
